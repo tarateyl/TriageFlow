@@ -1,0 +1,8 @@
+{
+  "name": "TriageFlow: Clinical Guidance Assistant",
+  "description": "TriageFlow provides AI-powered clinical guidance for Emergency Department clinicians, assisting with triage and initial assessment based on NHS guidelines. Features voice input for ease of use.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
